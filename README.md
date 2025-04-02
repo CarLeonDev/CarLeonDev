@@ -1,7 +1,7 @@
 # Carlos León  
 
 
-Hey, I'm Carlos León 👋🏼, author of [Reactter](https://github.com/2devs-team/reactter) package and a Front-end Developer with focus on componentized and high performance architectures. 
+Hey, I'm Carlos León 👋🏼, author of [Reactter](https://github.com/2devs-team/reactter) package and Front-end Developer with focus on componentized and high performance architectures. 
 Leading quality initiatives through scalable design systems, testing strategies and proactive refactoring, mentoring teams with best practices and effective cross-functional collaboration with UX/Backend.
 
 
