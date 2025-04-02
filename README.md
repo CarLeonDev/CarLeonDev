@@ -1,4 +1,4 @@
-# Carlos A. León Sánchez  
+# Carlos León  
 
 🚀 Building scalable apps | ⚡ Performance enthusiast | 🎨 Design systems advocate
 
