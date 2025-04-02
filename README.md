@@ -1,13 +1,8 @@
 # Carlos León  
 
-🚀 Building scalable apps | ⚡ Performance enthusiast | 🎨 Design systems advocate
 
----
-
-I'm author of [Reactter](https://github.com/2devs-team/reactter).
-
-Front-end Developer with focus on componentized and high performance architectures. Leading quality initiatives through scalable design systems, testing strategies and proactive refactoring,
-mentoring teams with best practices and effective cross-functional collaboration with UX/Backend.
+Hey, I'm Carlos León 👋🏼, author of [Reactter](https://github.com/2devs-team/reactter) package and a Front-end Developer with focus on componentized and high performance architectures. 
+Leading quality initiatives through scalable design systems, testing strategies and proactive refactoring, mentoring teams with best practices and effective cross-functional collaboration with UX/Backend.
 
 
 ### **🛠️ Tech Stack**  
@@ -17,4 +12,7 @@ mentoring teams with best practices and effective cross-functional collaboration
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarLeonDev&layout=compact&theme=dark)](https://github.com/CarLeonDev)  
 ---
 
+🚀 Building scalable apps | ⚡ Performance enthusiast | 🎨 Design systems advocate
+
+---
 ⭐ **Let’s build something awesome!**  
